@@ -9,7 +9,7 @@ ll gcd(ll a, ll b){
   else
     return gcd(b,a%b);
 }
-
+// kem palty
 int main(){
   ll a,b;
   cin>>a>>b;
